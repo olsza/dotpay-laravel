@@ -1,5 +1,5 @@
 {
-    "name": "evilnet/dotpay",
+    "name": "olsza/dotpay-laravel",
     "type": "library",
     "description": "Package for Dotpay payments via api instead of form",
     "keywords": [
@@ -7,18 +7,18 @@
         "Dotpay",
 	"laravel"
     ],
-    "homepage": "https://github.com/Evilnet/Dotpay",
+    "homepage": "https://github.com/olsza/dotpay-laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Axotion",
-            "email": "axotion@linux.pl",
-            "homepage": "https://github.com/axotion",
+            "name": "Olsza",
+            "email": "olsza@linux.pl",
+            "homepage": "https://github.com/olsza",
             "role": "Developer"
         }
     ],
     "require": {
-        "php" : "~5.6|~7.0",
+        "php" : "~5.6|~7.0|~8.0",
         "guzzlehttp/guzzle": "^6.3 || ^7.0.1"
     },
     "require-dev": {
